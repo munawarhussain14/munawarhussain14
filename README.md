@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @munawarhussain14
+- 👋 Hi, I’m Munawar Hussain
 - 👀 I’m interested in Full Stack Developer Remote Work
-- 🌱 I’m currently learning new Technology
+- 🌱 I’m currently learning new Technology and working on Full Stack Projects
 - 💞️ I’m looking to collaborate on PHP or Javacript Project or MERN Stack (NodeJS) and Flutter
 - 📫 Please contact me on munawarhussain10@gmail.com
 
